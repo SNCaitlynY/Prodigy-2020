@@ -1,4 +1,4 @@
 # Prodigy
 
-The files are for the usage of annotation software Prodigy development.
+The files are for the usage of annotation software, Prodigy, development.
  
